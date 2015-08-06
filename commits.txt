@@ -1,0 +1,35 @@
+commit 3a2af12fa70d8755c5f240231d8308368316d840
+Author: Victor Ruiz <victor100490sistem@gmail.com>
+Date:   Mon Aug 3 19:34:20 2015 -0500
+
+    se ha agregado un nuevo portafolio
+
+commit a72d57c64c324dfeb6ec692273fc923a1c3ca7d3
+Author: Victor Ruiz <victor100490sistem@gmail.com>
+Date:   Mon Aug 3 19:31:43 2015 -0500
+
+    ha agreagado una descripcion
+
+commit 812e9faa24fb48c44f1b29a6761b82ec194ca80e
+Author: Victor Ruiz <victor100490sistem@gmail.com>
+Date:   Mon Aug 3 19:29:55 2015 -0500
+
+    agregar links de las cuentas en web
+
+commit 729fcc77b1043c01db406201ce44434627497b15
+Author: Victor Ruiz <victor100490sistem@gmail.com>
+Date:   Mon Aug 3 19:25:25 2015 -0500
+
+    perfil web escrito
+
+commit 903908c3a60d0f14aae83b6807b652e048525353
+Author: Victor Ruiz <victor100490sistem@gmail.com>
+Date:   Mon Aug 3 19:23:06 2015 -0500
+
+    subi foto de perfil y nombre
+
+commit f51910ca9ec2486e040f2f27d394e64ade215a42
+Author: Victor Ruiz <victor100490sistem@gmail.com>
+Date:   Mon Aug 3 18:25:26 2015 -0500
+
+    estos son los archivos base de mi portafolio
